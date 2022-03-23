@@ -1,9 +1,0 @@
-name: testMaps
-channels:
-  - conda-forge
-
-dependencies:
-  - eomaps
-  - geopandas
-  - matplotlib
-  - datashader
