@@ -14,6 +14,8 @@ that are not yet resolved (see below).
 Blitting is still only partially supported by the `ipympl` backend, which results
 in some problems for some features.
 
+-❌ in general notebooks still show a "laggy" performance compared to ordinary
+  matplotlib backends such as `Qt5Agg` or `TkAgg`
 -❌ callbacks that draw on mouse-movement
   - the functionalities work, but there's an annoying lag with `ipympl`
 
