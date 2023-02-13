@@ -3,8 +3,5 @@ channels:
   - conda-forge
 
 dependencies:
-  - eomaps
-  - geopandas
-  - matplotlib
-  - datashader
+  - eomaps=6.0
   - ipympl
